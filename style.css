@@ -1,0 +1,7 @@
+echo 'body {
+  background-color: rosybrown;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+  color: #d6336c;
+}' > css/style.css
